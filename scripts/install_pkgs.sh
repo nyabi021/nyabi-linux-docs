@@ -12,7 +12,8 @@ PACKAGES=(
     # Applications & Utilities
     google-chrome spotify vesktop-bin ayugram-desktop-bin
     onlyoffice-bin pinta obsidian antigravity
-    zsh alacritty starship ttf-jetbrains-mono-nerd
+    zsh alacritty starship ttf-jetbrains-mono-nerd mullvad-vpn-bin
+    ungoogled-chromium-bin filen-bin
 )
 
 echo "Starting package installation..."
