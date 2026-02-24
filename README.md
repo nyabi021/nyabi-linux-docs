@@ -1,9 +1,9 @@
-# nyabi-linux-docs
-A collection of personal troubleshooting logs and configuration notes for Linux environments.
+# nyabi-system-docs
+A collection of personal troubleshooting logs and configuration notes for Linux and macOS environments.
 
 ## Focus
-- **OS**: EndeavourOS
-- **WM**: GNOME, Hyprland
+- **OS**: EndeavourOS, macOS (Apple Silicon)
+- **WM/DE**: GNOME, Hyprland
 
 ## Structure
 - `/troubleshooting`: Documentation of symptoms, analysis, and resolution procedures.
